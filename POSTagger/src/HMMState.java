@@ -28,6 +28,7 @@ public class HMMState {
 		
 		mTransitionProbabilities = pTransitionProbabilities;
 	}
+	
 	public String GetStateName()
 	{
 		
